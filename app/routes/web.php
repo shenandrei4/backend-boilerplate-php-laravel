@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return response('Hi there! See api.php file in routes folder to get the idea how it works...', 200);
+    return view('welcome');
 });

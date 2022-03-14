@@ -2,7 +2,7 @@
   "name": "backend-boilerplate",
   "version": "0.0.1",
   "scripts": {
-    "build": "cd app && composer install",
+    "build": "cd app && composer update && composer install",
     "start": "cd app && php artisan serve",
     "test": "cypress run"
   },

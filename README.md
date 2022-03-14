@@ -10,8 +10,8 @@ Use it for setting up a take-home interview assignment or a portfolio project.
 
 ## Tech Stack
 
-- PHP 8
-- Laravel 8
+- PHP
+- Laravel
 - Cypress
 - GitHub Actions
 
