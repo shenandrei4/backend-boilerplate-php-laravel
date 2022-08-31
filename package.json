@@ -1,12 +1,12 @@
 {
   "name": "backend-boilerplate",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "scripts": {
     "build": "cd app && composer update && composer install",
     "start": "cd app && php artisan serve",
     "test": "cypress run"
   },
   "devDependencies": {
-    "cypress": "^8.6.0"
+    "cypress": "^9.7.0"
   }
 }
